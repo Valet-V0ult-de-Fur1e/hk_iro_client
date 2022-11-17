@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hk_iro_client/static/css/main.acefc1fc.css",
-    "main.js": "/hk_iro_client/static/js/main.79953ace.js",
+    "main.js": "/hk_iro_client/static/js/main.712eca25.js",
     "static/js/787.f4549dfc.chunk.js": "/hk_iro_client/static/js/787.f4549dfc.chunk.js",
     "index.html": "/hk_iro_client/index.html",
     "main.acefc1fc.css.map": "/hk_iro_client/static/css/main.acefc1fc.css.map",
-    "main.79953ace.js.map": "/hk_iro_client/static/js/main.79953ace.js.map",
+    "main.712eca25.js.map": "/hk_iro_client/static/js/main.712eca25.js.map",
     "787.f4549dfc.chunk.js.map": "/hk_iro_client/static/js/787.f4549dfc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.acefc1fc.css",
-    "static/js/main.79953ace.js"
+    "static/js/main.712eca25.js"
   ]
 }
